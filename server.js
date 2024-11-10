@@ -1,2 +1,2 @@
-console.log("hello nEo")
+console.log("hello nEo");
 console.log("namaste nEo")
